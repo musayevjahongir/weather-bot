@@ -6,7 +6,7 @@ from telegram import (
 start_keyboard = ReplyKeyboardMarkup(
     keyboard=[
         [
-            KeyboardButton(text='Ob-havoni', request_location=True)
+            KeyboardButton(text='☀️Ob-havoni bilish', request_location=True)
         ]
     ],
     resize_keyboard=True
